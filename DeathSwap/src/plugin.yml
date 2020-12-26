@@ -1,0 +1,12 @@
+name: DeathSwap
+version: 1.0
+author: Yaros
+main: me.yaros.deathswap.Main
+description: Death Swap Game plugin inside Minecraft
+
+commands:
+  deathswap:
+    description: /deathswap [second player] to start the game
+    
+  endswap:
+    description: /endswap to end the game
